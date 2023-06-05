@@ -1,0 +1,22 @@
+.heade{
+    margin-top:10vh;
+}
+
+.heading{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.title{
+    font-size: x-large;
+    font-weight: 500;
+}
+
+.content{
+    font-size: large;
+    font-style: inherit;
+}
+
+.image{
+    width: 200;
+}
